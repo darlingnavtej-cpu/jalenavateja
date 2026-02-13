@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pictures/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sravani"
+	}
+}
